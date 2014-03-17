@@ -1,0 +1,16 @@
+{
+  "name": "shibe_JS",
+  "version": "0.0.0",
+  "description": "stuff for the sthack",
+  "main": "app.js",
+  "dependencies": {
+    "ejs": "~0.8.5",
+    "express": "~3.4.8"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "BSD"
+}
